@@ -1,0 +1,18 @@
+<template>
+    <div>
+        <app-header></app-header>
+        <app-nav></app-nav>
+        <v-container class="text-xs-justify">
+            <div class="display-1">About Us</div>
+                       <span class="body-2 font-weight-medium">  We heartedly welcome you to The Ranksol. It’s a spot where you reveal the genuine come about for your issue. It was a considerable while former when Ranksol started to serve people with the best of its dominance and swayed them to comprehend their different sorts of web and modifying issues. Despite we have been numerous satisfied clients enveloping the planet i.e. South Asia, America, Australia and Europe. With the same level of professionalism, Ranksol still offers its best managements to its old and upcoming clients. Go ahead share your web and modifying issue with us and get the effect for it pronto. At the time, you pick up passage to us; you won’t go away in light of the fact that we have basically various types of teams for different sorts of possible issues you defy in your standard work. <br>
+
+            We have a dedicated and bound team of masters who work for the clients paying to little heed to time and place. Our diligent work and commitment completed into 100% satisfied clients. We have experienced and significantly qualified masters who deal in different sorts of Cms, Drupal, Php, Dhtml, Joomla, Jquery, Mysql, Xml Api’s and a variety of others. We have done an extraordinary arrangement of work in Drupal and Php. At this time, there are practically a hundred of orders made by us are meeting expectations. Our remarkable smoothness in Jquery and Dhtml can also be seen in the business part. It is not all yet we also deal in desktop modifying and have specialists for Java Script, Oracle, C++ and other redoing lingos. We can plot customize and procurements for our client’s desktop requirements. Work now we have made a pile of accounting and call accompanying demands. In light of acquirement of inconceivable grouping of worth work The Ranksol has wound up being the best modifying house in its relative field of work. <br>
+
+            Furthermore, web headway we have a particular request in web making. We have a leading body of inventors who is working enduringly for the laying out of systems and other arranging likewise. We have a professionally ready and experienced team that uses Adobe photo shop, Flash and wash for forming and representation. Notwithstanding the previously stated requisitions we also use diverse requisitions as per the client’s necessities. It is not simply the matter of web design we also arrange wallpapers and diverse sorts of modifications i.e. logos and monograms. <br>
+
+            At The Ranksol you won’t just get the effects yet it will moreover, help you an extensive measure to research diverse mixed bags of web making, development and Seo theories. You will uncover a pile of articles formed by our experts for your qualified information and help that may be free of liability just for the headway of humanity. We, moreover, have the most forefront word press subjects and plug ins on the house. You may visit our portfolio page for an overview the work we have done. You may also strive for our site in case you have any inquiry use our online diary organization to get minute answers. Web diary is also obliging for you to request the recognized issue of your venture and get the effect for it immediately. There is no convincing motivation to open the books and waste an incredible arrangement of your profitable time. All you have to do is visit us and get the help in an astoundingly customer nature’s turf. <br>
+            </span>
+           
+        </v-container>
+    </div>
+</template>
